@@ -1,0 +1,9 @@
+{
+    "balance": 8000,
+    "broker_fee": 0.075,
+    "tf_entry": "1h",
+    "tf_exit": "30m",
+    "short_ema": 12,
+    "long_ema": 26,
+    "signal_sma": 9
+}
